@@ -1,0 +1,11 @@
+	print("My first")
+:quit
+
+
+
+
+:quit<>
+:quit
+:quit
+:wq
+
